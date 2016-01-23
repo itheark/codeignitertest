@@ -9,6 +9,6 @@ Live demo: http://codeignitertest.herokuapp.com
 * Clone this repository
 * Setup the following environment variables: 
 	* `BASE_URL`
-	* `CLEARDB_DATABASE_URL`: something like `mysql://root:password@127.0.0.1/codeignitertest
+	* `CLEARDB_DATABASE_URL`: something like `mysql://root:password@127.0.0.1/codeignitertest`
 	* `FACEBOOK_APP_ID`: create a new app in https://developers.facebook.com
 	* `FACEBOOK_APP_SECRET`
